@@ -1,0 +1,59 @@
+.header{
+    overflow: hidden;
+    background-color: #42210B;
+    padding: 15px 15px;
+}
+.header a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 12px 10px;
+    font-size: 18px;
+}
+.header a.Logo{
+    font-size: 30px;
+}
+.header-right{
+    float: right;
+}
+.Txt {
+    font-size: 50px;
+    height: 20px;   
+}
+.Txt1 {
+    text-align: center;
+}
+.Txt2 {
+    text-align: left;
+}
+.Txt3 {
+    text-align: right;
+}
+.end {
+    overflow: hidden;
+    background-color: #42210B;
+    padding: 15px 15px;
+}
+.end a {
+    float: none;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    padding: 15px 15px;
+}
+.end a.Logo{
+    font-size: 40px;
+    padding: 15px 15px;
+    float: none;
+}
+.end div.end-center{
+    float: none;
+    text-align: center;
+    font-size: 17px;
+}
+.end p.text {
+    color: white;
+    float: none;
+    font-size: 12;
+    text-align: right;
+}
