@@ -1,0 +1,24 @@
+.header{
+    overflow: hidden;
+    background-color: #42210B;
+    padding: 15px 15px;
+}
+.header a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 12px 10px;
+    font-size: 18px;
+}
+.header a.Logo{
+    font-size: 30px;
+}
+
+.header-right{
+    float: right;
+}
+.header-right a.active {
+    background-color: rgb(131, 73, 7);
+    color: wheat;
+    border-radius: 50%;
+}
